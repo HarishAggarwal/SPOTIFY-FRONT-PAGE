@@ -1,0 +1,77 @@
+body
+{
+    background-color: black;
+    margin: 5px;
+}
+#Icon01,#Icon02,#Icon03,#name03
+{
+    float: left;
+}
+#Icon04,#Icon05
+{
+    float: right;
+}
+#Home
+{
+    background-color: rgba(255, 255, 255, 0.151);
+}
+#Home
+{
+    height: 20vh;
+}
+#Library
+{
+    height: 72vh;
+    background-color: rgba(255, 255, 255, 0.151);
+}
+#Content
+{
+    height: 95vh;
+    background-color: rgb(255,255,255,0.151);
+}
+#Playlist,#Podcast
+{
+    height: 20vh;
+    width: 90%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    background-color: rgba(255, 255, 255, 0.151);
+}
+#head
+{
+    float: left;
+    height: 5vh;
+    width: 100%;
+}
+h6,p,button
+{
+    margin-left: 10px;
+}
+h5
+{
+    margin-top: 15px;
+}
+#left,#right
+{
+    float: left;
+    margin-top: 10px;
+    transform: scale(1.4);
+}
+#upload,#install,#Profile
+{
+    float: right;
+    margin-top: 10px;
+}
+#Profile
+{
+    transform: scale(1.4);
+}
+#upload
+{
+    height: 50%;
+}
+button
+{
+    height: fit-content;
+}
